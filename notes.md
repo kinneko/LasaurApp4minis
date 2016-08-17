@@ -2,6 +2,8 @@
 
 CHANGE LOG
 -----------
+- make 4minis branch
+
 - confgurable work area (for modded lasersaurs)
 - out of bounds checks before sending jobs
 - visual feedback on color selection
